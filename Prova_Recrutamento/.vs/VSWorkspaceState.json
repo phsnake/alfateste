@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ClassLibrary1",
+    "\\ClassLibrary1\\Data",
+    "\\ClassLibrary1\\Models",
+    "\\ClassLibrary1\\Repositories"
+  ],
+  "SelectedNode": "\\ClassLibrary1\\Repositories\\CustomerRepository.cs",
+  "PreviewInSolutionExplorer": false
+}

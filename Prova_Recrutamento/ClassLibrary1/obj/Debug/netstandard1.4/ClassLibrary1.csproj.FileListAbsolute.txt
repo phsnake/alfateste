@@ -1,0 +1,4 @@
+C:\Users\Raphael Gouveia\documents\UnityOfShop\Prova_Recrutamento\ClassLibrary1\bin\Debug\netstandard1.4\ClassLibrary1.deps.json
+C:\Users\Raphael Gouveia\documents\UnityOfShop\Prova_Recrutamento\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\Raphael Gouveia\documents\UnityOfShop\Prova_Recrutamento\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Raphael Gouveia\documents\UnityOfShop\Prova_Recrutamento\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.AssemblyInfo.cs
